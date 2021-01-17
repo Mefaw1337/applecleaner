@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\bin\Release\applebymefaw.exe.config
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\bin\Release\applebymefaw.exe
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\bin\Release\applebymefaw.pdb
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.Home.resources
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.exe
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.pdb
+C:\Users\Utilisateur\source\repos\applebymefaw\applebymefaw\obj\Release\applebymefaw.Cleaner.resources
